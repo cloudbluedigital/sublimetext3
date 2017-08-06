@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"Blade Snippets",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DotENV",
+		"Elixir",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Companion",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php"
+	]
+}

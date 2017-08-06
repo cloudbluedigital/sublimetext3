@@ -1,0 +1,14 @@
+[
+	{
+		"keys" : ["ctrl+alt+f"],
+		"command" : "side_bar_new_file"
+	},
+	{
+		"keys" : ["ctrl+alt+r"],
+		"command" : "side_bar_rename"
+	},
+	{
+		"keys" : ["ctrl+alt+b"],
+		"command" : "find_use"
+	}
+]
